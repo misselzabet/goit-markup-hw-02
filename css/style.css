@@ -30,7 +30,6 @@ font-weight: 500;
  }
  .link:active{
    background-color: #404BBF;
-   
    text-decoration: underline;
  }
 .contacts {
@@ -59,15 +58,19 @@ font-weight: 500;
     color:#ffffff;
  }
  .second-line .text {
+   letter-spacing: 0.02em;
     font-weight: 700;
     font-size: 56px;
     text-align: center;
     line-height: 1.07;
  }
 .second-line button {
-   cursor:"pointer";
+   cursor:pointer;
     background-color: #4D5AE5;
     color: #ffffff;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
 
 }
  .order:hover
