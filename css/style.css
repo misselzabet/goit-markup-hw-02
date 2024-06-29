@@ -138,9 +138,24 @@ background-color: #ffffff;
 }
 
 .our-portfolio-text {
-   font-weight: 400px;
+   font-weight: 500;
 }
  .last-line { 
     background-color:#2E2F42;
     color: #F4F4FD;
+ }
+ .second-link-logo{
+   text-decoration: none;
+        color: #4d5ae5;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        font-size: 18px;
+        line-height: 1.17;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+ }
+ .second-studio{
+   color:#f4f4fd;
  }
