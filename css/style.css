@@ -71,7 +71,7 @@ font-weight: 500;
     line-height: 1.5;
 
 }
- .order:hover
+ .order:hover, .order:focus
 {
       background-color: #404BBF
 }
