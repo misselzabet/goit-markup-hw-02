@@ -5,7 +5,8 @@ body {
         font-family: "Roboto", sans-serif;
         font-weight: 500;
       color: #434455;
-    line-height: 1.5;
+      letter-spacing: 0.02em;
+   
 }
 .first-link-logo {
     text-decoration: none;
@@ -35,8 +36,6 @@ font-weight: 500;
 .contacts {
    font-style: normal;
 }
-
-
   .link-contacts {
      text-decoration: none;
      color: inherit;
@@ -48,15 +47,13 @@ font-weight: 500;
   .link-contacts:hover,
   .link-contacts:focus {
      color: #404BBF;
-    
   }
 
-  
-  
  .second-line {
     background-color: #2E2F42;
     color:#ffffff;
  }
+
  .second-line .text {
    letter-spacing: 0.02em;
     font-weight: 700;
@@ -77,11 +74,21 @@ font-weight: 500;
 {
       background-color: #404BBF
 }
+
+
+   
+
  .benefits-item {
  font-size: 20px;
- line-height: 1,2; 
- 
+ line-height: 1.2; 
+ font-weight: 500;
+ letter-spacing: 0.02em;
+color: #2E2F42;
  }
+.benefits-text{
+
+
+}
 
 .benefits { 
  font-weight: 400px;
