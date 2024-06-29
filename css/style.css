@@ -99,7 +99,7 @@ color: #2E2F42;
 
  }
  .our-team {
-    background-color: #F4F4FD;
+   background-color: #F4F4FD;
  }
  .our-team-title { font-size: 36px;
     line-height: 1.11;
@@ -117,6 +117,7 @@ background-color: #F4F4FD;
 
 .our-team-text {
     font-weight: 400px;
+    background-color: #ffffff;
 }
 
 
