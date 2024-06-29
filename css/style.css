@@ -21,10 +21,11 @@ body {
         font-style: normal;
 }
  span{color: #2e2f42; }
+
+
  .link  { text-decoration: none;
 color: #2e2f42 ;
 font-weight: 500;
-
    letter-spacing: 0.02em;
  }
 .link:hover, .link-:focus{
@@ -109,7 +110,7 @@ color: #2E2F42;
     color: #2e2f42;
 }
  .our-team-text {
-background-color: #ffffff;
+background-color: #F4F4FD;
 
  }
 
@@ -137,6 +138,9 @@ background-color: #ffffff;
 .our-portfolio-item {
    font-size: 20px;
    line-height: 1.2;
+   letter-spacing: 0.02em;
+   font-weight: 500;
+   color:#2E2F42;
 }
 
 .our-portfolio-text {
