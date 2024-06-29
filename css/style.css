@@ -1,22 +1,25 @@
 body {
-         background-color: #ffffff;
-         
+         background-color: 
+         #F4F4FD;
+         font-size: 16px;
         font-family: "Roboto", sans-serif;
         font-weight: 500;
-      color: #2E2F42;
+      color: #434455;
     line-height: 1.5;
 }
-.link-logo {
+.first-link-logo {
     text-decoration: none;
-        color: inherit;
+        color: #4d5ae5;
         font-weight: 700;
-        font-size: 18;
-        line-height: 1.16;
+        text-transform: :uppercase;
+        letter-spacing: 0.03em;
+        font-size: 18px;
+        line-height: 1.17;
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-style: normal
 }
- .web { color:#4D5AE5;}
+ span{color: #2e2f42; }
  .link  { text-decoration: none;
 color: inherit;
 font-weight: 400;
