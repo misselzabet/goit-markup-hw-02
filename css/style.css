@@ -1,6 +1,6 @@
 body {
          background-color: #ffffff;
-      
+         
         font-family: "Roboto", sans-serif;
         font-weight: 500;
       color: #2E2F42;
@@ -55,6 +55,7 @@ font-weight: 400;
     line-height: 1.07;
  }
 .second-line button {
+   cursor:"pointer";
     background-color: #4D5AE5;
     color: #ffffff;
 
