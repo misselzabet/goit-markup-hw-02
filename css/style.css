@@ -6,7 +6,7 @@ body {
         font-weight: 500;
       color: #434455;
       letter-spacing: 0.02em;
-   
+      line-height: 1.5;
 }
 .first-link-logo {
     text-decoration: none;
@@ -18,12 +18,13 @@ body {
         line-height: 1.17;
         font-family: "Raleway", sans-serif;
         font-weight: 700;
-        font-style: normal
+        font-style: normal;
 }
  span{color: #2e2f42; }
  .link  { text-decoration: none;
 color: #2e2f42 ;
 font-weight: 500;
+
    letter-spacing: 0.02em;
  }
  .link:hover, link:focus {
@@ -100,6 +101,10 @@ color: #2E2F42;
  .our-team-title { font-size: 36px;
     line-height: 1.11;
     font-weight: 700;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
  .our-team-text {
 background-color: #ffffff;
