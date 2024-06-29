@@ -21,21 +21,22 @@ body {
 }
  span{color: #2e2f42; }
  .link  { text-decoration: none;
-color: inherit;
-font-weight: 400;
+color: #2e2f42 ;
+font-weight: 500;
+   letter-spacing: 0.02em;
  }
  .link:hover, link:focus {
     color: #404BBF;
  }
+ .link:active{
+   background-color: #404BBF;
+   
+   text-decoration: underline;
+ }
 .contacts {
    font-style: normal;
 }
- .link:active{
-   background-color: #404BBF;
-   font-weight: 500;
-   letter-spacing: 0.02em;
-   text-decoration: underline;
- }
+
 
   .link-contacts {
      text-decoration: none;
