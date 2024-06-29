@@ -27,7 +27,7 @@ font-weight: 500;
 
    letter-spacing: 0.02em;
  }
- .link:hover, link:focus {
+.link:hover, .link-:focus{
     color: #404BBF;
  }
  .link:active{
