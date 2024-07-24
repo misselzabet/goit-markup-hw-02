@@ -8,7 +8,7 @@ body {
       letter-spacing: 0.02em;
       line-height: 1.5;
 }
-li{
+ul{
    list-style: none;
 }
 .first-link-logo {
